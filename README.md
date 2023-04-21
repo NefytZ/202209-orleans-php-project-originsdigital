@@ -59,7 +59,7 @@ Wild Code School team:
 - [Kevyn SOLA](https://github.com/KevynSola)
 - [Hélène Vilaine](https://github.com/shvilaine)
 - [Lucian Purcaru](https://github.com/lucianpurcaru)
-- [Thyphen Merigot] (https://github.com/NefytZ)
+- [Thyphen Merigot](https://github.com/NefytZ)
 
 ## License
 
